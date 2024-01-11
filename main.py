@@ -16,4 +16,8 @@ class City:
 
 adresa1=City("Bratislava","Moja",1,85320,"Slovensko")
 adresa1.adress()
-print(adresa1.zip)
+adresa2=City("Malacky","Bratislavska",5,90001,"SR")
+adresa2.adress()
+adresa3=City("Martin","Maticna",18,70023,"Slovenska republika")
+adresa3.adress()
+
